@@ -12,10 +12,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ishan sawhney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishan sawhney" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ishansawhney/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishan sawhney" height="30" width="40" /></a>
 <a href="https://instagram.com/ishaan._20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishaan._20" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codegenius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codegenius" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ishan sawhney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishan sawhney" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@CodeGenius316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codegenius" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/sawhneyishan7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishan sawhney" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sawhneyrhz9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sawhneyrhz9" height="30" width="40" /></a>
 </p>
 
